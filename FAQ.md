@@ -20,7 +20,7 @@
   The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.  
   Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.  
 
-  **Q:** Should I keep a journal?  
+  **Q:** Should I keep a journal?   
   **A:** Yes you should, and the best way to do that is to fork this repo, and commit to [the Log](log.md) daily. It’s helpful in two major ways: you will be able to look at the progress each day and see how far you’ve already come and it will be easier to find the motivation to continue, and the second one is that after you’ve done your 100 days, you will be able to analyze your experience better and see what worked and what didn’t.
 
   **Q:** Should I put my projects online?  
